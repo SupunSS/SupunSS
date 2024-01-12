@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/supunsankalpa17" target="blank"><img src="https://img.shields.io/twitter/follow/supunsankalpa17?logo=twitter&style=for-the-badge" alt="supunsankalpa17" /></a> </p>
 
-- 🌱 I’m currently learning **Java,C#,C++**
+- 🌱 I’m currently learning **Java,C#,C++,Dart**
 
 - 💬 Ask me about **Premier pro,Unreal Engine**
 
