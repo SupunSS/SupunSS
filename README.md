@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java,C#,C++,Dart**
 
-- 💬 Ask me about **Premier pro,Unreal Engine**
+- 💬 Ask me about **Backend developemnt,Unreal Engine,Gameplay programming**
 
-- 📫 How to reach me **www.supunsankalpawimalarathna@gmail.com**
+- 📫 How to reach me **supunsspn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
