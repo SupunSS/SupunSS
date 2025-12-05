@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supun Sankalpa</h1>
-<h3 align="center">University Student and programmer</h3>
+<h3 align="center">University Student and programmer.Building gameplay systems, AI, physics, and open-world mechanics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunss&label=Profile%20views&color=0e75b6&style=flat" alt="supunss" /> </p>
 
