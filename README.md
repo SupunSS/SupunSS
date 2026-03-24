@@ -76,9 +76,8 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supunss&theme=onedark&no-frame=true&row=2&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supunss&show_icons=true&theme=radical" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
