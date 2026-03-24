@@ -79,7 +79,7 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 
 ### 📱 Frontend & Mobile
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,js,ts" />
 </p>
 
 ---
