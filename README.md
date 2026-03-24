@@ -67,8 +67,19 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 
 ## 🧰 Tech Stack
 
+### 🎮 Game Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,nodejs,nestjs,react,reactnative,mongodb,mysql,php,python,unreal,android,photoshop" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,unreal" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,mongodb,mysql" />
+</p>
+
+### 📱 Frontend & Mobile
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts" />
 </p>
 
 ---
