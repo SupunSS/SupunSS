@@ -1,32 +1,138 @@
-<h1 align="center">Hi 👋, I'm Supun Sankalpa</h1>
-<h3 align="center">University Student and programmer.Building gameplay systems, AI, physics, and open-world mechanics.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supunss&label=Profile%20views&color=0e75b6&style=flat" alt="supunss" /> </p>
+# 👋 Hey, I'm Supun Sankalpa
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunss" alt="supunss" /></a> </p>
+### 🎮 Game Developer | 🔧 Backend Engineer | 💻 Systems Programmer
 
-<p align="left"> <a href="https://twitter.com/supunsankalpa17" target="blank"><img src="https://img.shields.io/twitter/follow/supunsankalpa17?logo=twitter&style=for-the-badge" alt="supunsankalpa17" /></a> </p>
+*Building immersive gameplay systems, AI-driven mechanics, and complex physics simulations*
 
-- 🌱 I’m currently learning **Java,C#,C++,Dart**
+[![Profile Views](https://komarev.com/ghpvc/?username=supunss&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/supunss)
+[![Twitter Follow](https://img.shields.io/twitter/follow/supunsankalpa17?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/supunsankalpa17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/supun-sankalpa)
 
-- 💬 Ask me about **Backend developemnt,Unreal Engine,Gameplay programming**
+</div>
 
-- 📫 How to reach me **supunsspn@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/supunsankalpa17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supunsankalpa17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supun sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supun sankalpa" height="30" width="40" /></a>
-<a href="https://fb.com/supun sankalpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun sankalpa" height="30" width="40" /></a>
-<a href="https://instagram.com/_supun_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_supun_ss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Vampier_SS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vampier" height="30" width="40" /></a>
-</p>
+## 🚀 What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+```cpp
+class GameDeveloper {
+    public:
+        string[] expertise = {
+            "Gameplay Systems Architecture",
+            "AI & Pathfinding Algorithms", 
+            "Physics Engine Integration",
+            "Open-World Mechanics",
+            "Backend API Development",
+            "Real-time Multiplayer Systems"
+        };
+        
+        void CurrentFocus() {
+            Learning("Java, C#, C++, Dart");
+            Building("Next-gen gameplay experiences");
+            Exploring("Advanced physics simulations");
+        }
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supunss&show_icons=true&locale=en&layout=compact" alt="supunss" /></p>
+## 🛠️ Tech Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supunss&show_icons=true&locale=en" alt="supunss" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supunss&" alt="supunss" /></p>
+### 🎯 Game Development & Systems
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 💾 Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=supunss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supunss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunss&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supunss&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+## 💡 Expertise Highlights
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/unreal-engine.png" width="48" height="48" alt="Gameplay"/>
+      <br><b>Gameplay Programming</b>
+      <br><sub>Character controllers, combat systems, AI behaviors</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/physics.png" width="48" height="48" alt="Physics"/>
+      <br><b>Physics Systems</b>
+      <br><sub>Collision detection, rigid body dynamics, optimization</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/server.png" width="48" height="48" alt="Backend"/>
+      <br><b>Backend Development</b>
+      <br><sub>RESTful APIs, database architecture, multiplayer systems</sub>
+    </td>
+  </tr>
+</table>
+
+## 🎮 Current Projects & Learning
+
+- 🔭 Building advanced gameplay systems in **Unreal Engine**
+- 🌱 Mastering **C++**, **C#**, **Java**, and **Dart**
+- 🧠 Implementing **AI pathfinding** and behavior trees
+- ⚡ Optimizing **physics simulations** for real-time performance
+- 🌍 Designing **open-world mechanics** and procedural generation
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-supunsspn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supunsspn@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@supunsankalpa17-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/supunsankalpa17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Supun%20Sankalpa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supun-sankalpa)
+[![Instagram](https://img.shields.io/badge/Instagram-@__supun__ss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_supun_ss)
+[![YouTube](https://img.shields.io/badge/YouTube-Vampier__SS-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vampier_SS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Talk is cheap. Show me the code."* - Linus Torvalds
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+</div>
