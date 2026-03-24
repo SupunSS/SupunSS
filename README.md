@@ -1,4 +1,11 @@
-<h1 align="center">Hey 👋, I'm Supun Sankalpa</h1>
+<!-- 🔥 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Supun%20Sankalpa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<!-- 🧠 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Gameplay+Programmer;Backend+Engineer;Unreal+Engine+Developer;Building+Scalable+Systems" />
+</p>
+
 <h3 align="center">💻 Software Engineer | 🎮 Gameplay Programmer | 🚀 Future Game Systems Architect</h3>
 
 <p align="center">
@@ -42,7 +49,6 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 
 ### 📱 Frontend & Mobile
 - React / React Native (Expo)
-- UI/UX Implementation from Figma
 
 ---
 
@@ -79,7 +85,7 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 
 ### 📱 Frontend & Mobile
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,expo" />
 </p>
 
 ---
@@ -107,3 +113,8 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 ## 📫 Contact Me
 
 📧 **supunsspn@gmail.com**
+
+---
+
+<!-- ⚡ Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
