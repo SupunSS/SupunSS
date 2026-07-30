@@ -16,7 +16,7 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 
 ## 🚀 About Me
 
-- 🎓 ICT Undergraduate (Software Technology Specialization)
+- 🎓 BICT graduate (Software Technology Specialization)
 - 🏆 Dean’s List Holder – Academic Excellence
 - 🎮 Passionate about **Game Development & Open World Systems**
 - 🧠 Focused on **Gameplay Programming, AI Systems & Physics**
