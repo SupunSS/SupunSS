@@ -37,7 +37,6 @@ Building a custom C++ engine and shipping small complete games — this is the t
 - **[Nokia-Style 2D Space Shooter](https://github.com/SupunSS/shooting-game)** — A retro arcade shooter built from scratch in C++ using SFML 3.1.0, featuring complete core gameplay mechanics and packaged as a Windows installer via Inno Setup.
   `C++` `SFML` `CMake` `Game Systems`
 
-*(Replace the two links above with your actual repo URLs if they differ — right now these aren't pinned/visible on your profile, so fixing that is step one.)*
 
 **Currently learning:** Unreal Engine (gameplay mechanics, AI, physics), C#
 **Goal:** Gameplay/game-systems programmer, AAA-level engineering practices
@@ -49,9 +48,9 @@ Building a custom C++ engine and shipping small complete games — this is the t
 Production-style backend systems, APIs, and CI/CD — day-job track, currently applied at the President's Office of Sri Lanka.
 
 **Featured**
-- **[Flux](https://github.com/SupunSS/flux)** — Full-stack, cloud-native video streaming platform. Next.js + NestJS + MongoDB, Dockerized microservices, CI/CD via GitHub Actions, deployed to AWS EC2. JWT + Google auth, studio upload workflows.
+- **[Flux](https://github.com/SupunSS/Video-streaming-platform)** — Full-stack, cloud-native video streaming platform. Next.js + NestJS + MongoDB, Dockerized microservices, CI/CD via GitHub Actions, deployed to AWS EC2. JWT + Google auth, studio upload workflows.
   `Next.js` `NestJS` `TypeScript` `MongoDB` `Docker` `AWS EC2`
-- **[Rice Cooker IoT](https://github.com/SupunSS/rice-cooker-back-end)** — End-to-end IoT appliance ecosystem: embedded hardware + cloud backend + ML classification model for temperature thresholds. Mobile control via React Native.
+- **[Rice Cooker IoT](https://github.com/SupunSS/rice-cooker-back-end/tree/Supun)** — End-to-end IoT appliance ecosystem: embedded hardware + cloud backend + ML classification model for temperature thresholds. Mobile control via React Native.
   `NestJS` `Python` `React Native` `ML`
 - **[Bus Ticket Booking](https://github.com/SupunSS/bustbooking)** — Cross-platform Flutter app with transactional locking to eliminate double-booking under concurrent load.
   `Flutter` `Dart` `Express`
