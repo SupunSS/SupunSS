@@ -3,65 +3,64 @@
 
 <!-- 🧠 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Gameplay+Programmer;Backend+Engineer;Unreal+Engine+Developer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Gameplay+Programmer+%7C+C%2B%2B;Backend+%2F+DevOps+Engineer" />
 </p>
 
-<h3 align="center">💻 Software Engineer | 🎮 Gameplay Programmer | 🚀 Future Game Systems Architect</h3>
+<h3 align="center">Software Engineer — Game Systems & Backend/DevOps</h3>
+<p align="center">
+I split my work between two tracks: building gameplay systems and engines in C++, and building backend/DevOps systems for web platforms. Jump to whichever you're here for.
+</p>
 
 <p align="center">
-Building immersive gameplay systems, AI behaviors, physics mechanics, and scalable backend solutions.
+  <a href="#-game-development">🎮 Game Development</a> ·
+  <a href="#️-backend--devops">⚙️ Backend & DevOps</a>
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 BICT graduate (Software Technology Specialization)
-- 🏆 Dean’s List Holder – Academic Excellence
-- 🎮 Passionate about **Game Development & Open World Systems**
-- 🧠 Focused on **Gameplay Programming, AI Systems & Physics**
-- ⚙️ Also experienced in **Backend Development (APIs, Auth, Systems Design)**
-
----
-
-## 🔥 What I’m Currently Doing
-
-- 🌱 Learning: `Java`, `C#`, `C++`, `Dart`
-- 🧩 Building:
-  - Gameplay systems using Unreal Engine
-  - Backend systems with NestJS & MongoDB
-  - Mobile apps with React Native (Expo Router)
-- 🎯 Goal: Become a **Game Systems Engineer (AAA-level thinking)**
+- 🎓 BICT graduate (Software Technology Specialization), Uva Wellassa University
+- 🏆 Dean's Certificate — Academic Excellence
+- Currently a Trainee Software/DevOps Engineer at the President's Office of Sri Lanka
+- Two focus areas, worked in parallel: **gameplay/engine programming in C++**, and **backend/DevOps for production web systems**
 
 ---
 
-## 💡 Core Skills
+## 🎮 Game Development
 
-### 🎮 Game Development
-- Unreal Engine (Gameplay Mechanics, AI, Physics)
-- C++ / C#
-- System Design for Games
+Building a custom C++ engine and shipping small complete games — this is the track I'm aiming to grow into professionally (gameplay/systems programmer).
 
-### ⚙️ Backend Development
-- Node.js / NestJS
-- REST APIs & Authentication (JWT, bcrypt)
-- Database Design (MongoDB, MySQL)
+**Featured**
+- **[VA Engine](https://github.com/SupunSS/va-engine)** — Custom C++ game engine; currently building Euphoria-style procedural ragdoll physics.
+  `C++` `Physics` `Engine Architecture`
+- **[Space Shooter / Terminal Shooter](https://github.com/SupunSS/terminal-shooter)** — 2D Nokia-style space shooter built in C++ with SFML 3.1.0. Core game systems complete; packaged as a Windows installer via Inno Setup.
+  `C++` `SFML` `CMake` `Game Systems`
 
-### 📱 Frontend & Mobile
-- React / React Native (Expo)
+*(Replace the two links above with your actual repo URLs if they differ — right now these aren't pinned/visible on your profile, so fixing that is step one.)*
 
----
-
-## 🧠 What I Can Build
-
-✔️ Complex gameplay systems (movement, combat, AI logic)  
-✔️ Backend architectures for real-world apps  
-✔️ Full-stack applications (Mobile + API)  
-✔️ Scalable and maintainable codebases  
+**Currently learning:** Unreal Engine (gameplay mechanics, AI, physics), C#
+**Goal:** Gameplay/game-systems programmer, AAA-level engineering practices
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Backend & DevOps
+
+Production-style backend systems, APIs, and CI/CD — day-job track, currently applied at the President's Office of Sri Lanka.
+
+**Featured**
+- **[Flux](https://github.com/SupunSS/flux)** — Full-stack, cloud-native video streaming platform. Next.js + NestJS + MongoDB, Dockerized microservices, CI/CD via GitHub Actions, deployed to AWS EC2. JWT + Google auth, studio upload workflows.
+  `Next.js` `NestJS` `TypeScript` `MongoDB` `Docker` `AWS EC2`
+- **[Rice Cooker IoT](https://github.com/SupunSS/rice-cooker-back-end)** — End-to-end IoT appliance ecosystem: embedded hardware + cloud backend + ML classification model for temperature thresholds. Mobile control via React Native.
+  `NestJS` `Python` `React Native` `ML`
+- **[Bus Ticket Booking](https://github.com/SupunSS/bustbooking)** — Cross-platform Flutter app with transactional locking to eliminate double-booking under concurrent load.
+  `Flutter` `Dart` `Express`
+
+**Stack:** Node.js · NestJS · MongoDB · MySQL · Docker · GitHub Actions · REST APIs · Microservices
+
+---
+
+## 🌐 Connect
 
 <p align="center">
 <a href="https://twitter.com/supunsankalpa17"><img src="https://img.shields.io/twitter/follow/supunsankalpa17?logo=twitter&style=for-the-badge" /></a>
@@ -69,23 +68,21 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 <a href="https://www.youtube.com/@Vampier_SS"><img src="https://img.shields.io/badge/YouTube-Vampier-red?style=for-the-badge&logo=youtube" /></a>
 </p>
 
----
-
 ## 🧰 Tech Stack
 
-### 🎮 Game Development
-<p align="center">
+**Game Development**
+<p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,cs,unreal" />
 </p>
 
-### ⚙️ Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,mongodb,mysql" />
+**Backend & DevOps**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,mongodb,mysql,docker" />
 </p>
 
-### 📱 Frontend & Mobile
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,expo" />
+**Frontend & Mobile**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,js,ts,expo,flutter" />
 </p>
 
 ---
@@ -96,25 +93,15 @@ Building immersive gameplay systems, AI behaviors, physics mechanics, and scalab
 <img src="https://github-readme-stats.vercel.app/api?username=supunss&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=supunss&theme=radical" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunss&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🎯 Personal Mission
+## 📫 Contact
 
-> I’m not just learning to code —  
-> I’m building the skills to create **immersive worlds, intelligent systems, and scalable software that people actually use.**
-
----
-
-## 📫 Contact Me
-
-📧 **supunsspn@gmail.com**
-
----
+📧 **supunsspn@gmail.com** · 📍 Colombo, Sri Lanka
 
 <!-- ⚡ Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
