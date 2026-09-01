@@ -32,9 +32,9 @@ I split my work between two tracks: building gameplay systems and engines in C++
 Building a custom C++ engine and shipping small complete games — this is the track I'm aiming to grow into professionally (gameplay/systems programmer).
 
 **Featured**
-- **[VA Engine]([https://github.com/SupunSS/va-engine](https://github.com/SupunSS/VA_Engine))** — Custom C++ game engine; currently building Euphoria-style procedural ragdoll physics.
+- **[VA Engine](https://github.com/SupunSS/VA_Engine)** — Custom C++ game engine; currently building Euphoria-style procedural ragdoll physics.
   `C++` `Physics` `Engine Architecture`
-- **[Space Shooter / Terminal Shooter]([https://github.com/SupunSS/terminal-shooter](https://github.com/SupunSS/shooting-game))** — 2D Nokia-style space shooter built in C++ with SFML 3.1.0. Core game systems complete; packaged as a Windows installer via Inno Setup.
+- **[Space Shooter / Terminal Shooter](https://github.com/SupunSS/terminal-shooter](https://github.com/SupunSS/shooting-game)** — 2D Nokia-style space shooter built in C++ with SFML 3.1.0. Core game systems complete; packaged as a Windows installer via Inno Setup.
   `C++` `SFML` `CMake` `Game Systems`
 
 *(Replace the two links above with your actual repo URLs if they differ — right now these aren't pinned/visible on your profile, so fixing that is step one.)*
